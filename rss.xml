@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Aim, shoot, reflect]]></title>
         <description><![CDATA[Aim, shoot, reflect]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/commute/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 17:27:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 26 Oct 2015 17:34:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/commute/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A test]]></title>
-            <description><![CDATA[<article><h1>A test</h1><p>...Slow boat to work  </p></article>]]></description>
-            <link>undefineda-test/index.html</link>
+            <description><![CDATA[<article><h1>A test</h1><p>test description</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdcce9a7-bc3f-475d-8f73-bd59e021b978.jpg"></article>]]></description>
+            <link>https://thegrid.ai/commute/a-test/index.html</link>
             <guid isPermaLink="false">c06b135f-c63a-4252-a2a1-f7bd4125674c</guid>
-            <pubDate>Mon, 26 Oct 2015 17:27:33 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2015 17:33:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
