@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Aim, shoot, reflect]]></title>
+        <description><![CDATA[Aim, shoot, reflect]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 26 Oct 2015 17:27:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A test]]></title>
+            <description><![CDATA[<article><h1>A test</h1><p>...Slow boat to work  </p></article>]]></description>
+            <link>undefineda-test/index.html</link>
+            <guid isPermaLink="false">c06b135f-c63a-4252-a2a1-f7bd4125674c</guid>
+            <pubDate>Mon, 26 Oct 2015 17:27:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
