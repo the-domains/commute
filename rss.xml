@@ -4,8 +4,15 @@
         <description><![CDATA[Aim Shoot Reflect]]></description>
         <link>https://thegrid.ai/commute/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 17:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 17:52:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/commute/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Let us know how it's going!  We want to hear your feedback! (It is Beta, after all.) So if you find a bug, something isn’t working as you’d expect, or you have an idea of something to add, there are a few ways to get in touch with us:  Send us a note via the “Give Feedback” button in the bottom right corner of the web app. On mobile, you can find the link from your “Profile” screen. Email us at feedback@thegrid.io Check out our Public Development Board for the latest info on known issues and planned features, and to submit ideas of your own: https://trello.com/b/DsYWip1U/the-grid-development- Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!</p>]]></description>
+            <link>https://thegrid.ai/commute/let-us-know-how-its-going-we-want-to-hear-your-feedback/index.html</link>
+            <guid isPermaLink="false">c07f6914-4a79-449c-a5a6-fd9908daaa52</guid>
+            <pubDate>Mon, 26 Oct 2015 17:52:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>New Day, same sea</p>]]></description>
