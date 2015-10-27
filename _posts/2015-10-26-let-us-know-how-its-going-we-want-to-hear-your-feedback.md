@@ -1,17 +1,23 @@
 ---
-description: "Let us know how it's going!  We want to hear your feedback! (It is Beta, after all.) So if you find a bug, something isn’t working as you’d expect, or you have "
-author: []
-datePublished: '2015-10-26T17:52:12.206Z'
-publisher:
-  domain: app.thegrid.io
-  name: app.thegrid.io
-title: ''
-dateModified: '2015-10-26T17:51:32.802Z'
-sourcePath: _posts/2015-10-26-let-us-know-how-its-going-we-want-to-hear-your-feedback.md
-published: true
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: "Let us know how it's going!  We want to hear your feedback! (It is Beta, after all.) So if you find a bug, something isn’t working as you’d expect, or you have "
+datePublished: '2015-10-27T05:36:24.963Z'
+dateModified: '2015-10-26T17:56:54.633Z'
+author: []
+title: Whats up dude?
+sourcePath: _posts/2015-10-26-let-us-know-how-its-going-we-want-to-hear-your-feedback.md
+published: true
+authors: []
+publisher:
+  name: app.thegrid.io
+  domain: app.thegrid.io
+  url: null
+  favicon: null
 url: let-us-know-how-its-going-we-want-to-hear-your-feedback/index.html
 _context: 'http://schema.org'
 _type: Article
